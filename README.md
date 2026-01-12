@@ -60,3 +60,4 @@ Improved metric export handling for partial batches
 Removed duplicate resource attributes before export
 Improved shutdown behavior for pending telemetry
 Fixed missing span attributes after context propagation
+Improved metric batching when export volume spikes
