@@ -62,3 +62,4 @@ Improved shutdown behavior for pending telemetry
 Fixed missing span attributes after context propagation
 Improved metric batching when export volume spikes
 Cleaned up retry state after exporter recovery
+Fixed an issue where exporter state was not reset after a failed retry
