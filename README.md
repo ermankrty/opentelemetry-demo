@@ -66,3 +66,4 @@ Fixed an issue where exporter state was not reset after a failed retry
 Fixed an issue where exporter state was not reset after a failed retry
 Fixed span status propagation after downstream errors
 Improved metric export behavior when batches are partially full
+Removed duplicate trace attribute assignment
