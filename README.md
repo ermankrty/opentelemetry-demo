@@ -7,3 +7,4 @@ Removed duplicate attribute assignment from tracing logic
 Added a fallback when trace context is missing
 Simplified metric label construction
 Fixed metric updates when a service returns no data
+Fixed span status when an upstream request is rejected
