@@ -10,3 +10,4 @@ Fixed metric updates when a service returns no data
 Fixed span status when an upstream request is rejected
 Reduced repeated metric label construction
 Improved cleanup for orphaned trace context
+Fixed missing attributes on retried spans
