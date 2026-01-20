@@ -69,3 +69,4 @@ Improved metric export behavior when batches are partially full
 Removed duplicate trace attribute assignment
 Cleaned up exporter state after a cancelled flush
 Fixed missing trace metadata after retry
+Improved exporter handling for partial failures
