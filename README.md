@@ -12,3 +12,4 @@ Reduced repeated metric label construction
 Improved cleanup for orphaned trace context
 Fixed missing attributes on retried spans
 Simplified exporter error handling
+Fixed missing parent context when creating nested spans
