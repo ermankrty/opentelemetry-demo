@@ -15,3 +15,4 @@ Simplified exporter error handling
 Fixed missing parent context when creating nested spans
 Reduced duplicate metric updates during retries
 Added a guard for invalid exporter responses
+Simplified cleanup after a cancelled trace
