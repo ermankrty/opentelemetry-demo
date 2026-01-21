@@ -71,3 +71,4 @@ Cleaned up exporter state after a cancelled flush
 Fixed missing trace metadata after retry
 Improved exporter handling for partial failures
 Reduced duplicate span processing before flush
+Fixed span linking when parent context is restored late
