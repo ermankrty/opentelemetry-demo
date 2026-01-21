@@ -14,3 +14,4 @@ Fixed missing attributes on retried spans
 Simplified exporter error handling
 Fixed missing parent context when creating nested spans
 Reduced duplicate metric updates during retries
+Added a guard for invalid exporter responses
