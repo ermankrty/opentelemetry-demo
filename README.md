@@ -18,3 +18,4 @@ Added a guard for invalid exporter responses
 Simplified cleanup after a cancelled trace
 Fixed an issue where failed exports left stale trace state
 Improved span cleanup when a downstream call times out
+Fixed missing trace attributes on retry
