@@ -21,3 +21,4 @@ Improved span cleanup when a downstream call times out
 Fixed missing trace attributes on retry
 Simplified metric export error handling
 Fixed missing service metadata on exported traces
+Reduced repeated span attribute lookups
