@@ -22,3 +22,4 @@ Fixed missing trace attributes on retry
 Simplified metric export error handling
 Fixed missing service metadata on exported traces
 Reduced repeated span attribute lookups
+Improved handling when the metrics exporter disconnects
