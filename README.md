@@ -25,3 +25,4 @@ Reduced repeated span attribute lookups
 Improved handling when the metrics exporter disconnects
 Fixed trace propagation when context is partially missing
 Improved span naming for background operations
+Fixed metric tags when requests are retried
