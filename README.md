@@ -28,3 +28,4 @@ Improved span naming for background operations
 Fixed metric tags when requests are retried
 Removed an unnecessary trace context copy
 Handled exporter shutdown without leaving pending spans
+Fixed exporter retry timing after a temporary connection failure
