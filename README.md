@@ -31,3 +31,4 @@ Handled exporter shutdown without leaving pending spans
 Fixed exporter retry timing after a temporary connection failure
 Fixed missing resource attributes on exported spans
 Reduced duplicate exporter calls during retries
+Improved cleanup when an export batch is interrupted
