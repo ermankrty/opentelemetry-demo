@@ -36,3 +36,4 @@ Fixed missing span links during chained requests
 Simplified metric aggregation for repeated events
 Fixed missing trace attributes on downstream failures
 Improved batching behavior for metric exports
+Removed duplicate span status updates
