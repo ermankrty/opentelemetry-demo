@@ -34,3 +34,4 @@ Reduced duplicate exporter calls during retries
 Improved cleanup when an export batch is interrupted
 Fixed missing span links during chained requests
 Simplified metric aggregation for repeated events
+Fixed missing trace attributes on downstream failures
