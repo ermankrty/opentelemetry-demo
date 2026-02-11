@@ -38,3 +38,4 @@ Fixed missing trace attributes on downstream failures
 Improved batching behavior for metric exports
 Removed duplicate span status updates
 Handled missing instrumentation scope values
+Cleaned up exporter state after a shutdown failure
