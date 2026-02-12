@@ -40,3 +40,4 @@ Removed duplicate span status updates
 Handled missing instrumentation scope values
 Cleaned up exporter state after a shutdown failure
 Fixed a case where trace attributes were dropped after retry
+Improved cleanup when metric export is interrupted
