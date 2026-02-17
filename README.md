@@ -45,3 +45,4 @@ Fixed a case where span status was not updated after exporter failure
 Improved handling when a trace ends before all child spans complete
 Fixed missing service attributes on retried exports
 Simplified span event filtering before export
+Improved cleanup when the trace exporter shuts down early
