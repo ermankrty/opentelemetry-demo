@@ -43,3 +43,4 @@ Fixed a case where trace attributes were dropped after retry
 Improved cleanup when metric export is interrupted
 Fixed a case where span status was not updated after exporter failure
 Improved handling when a trace ends before all child spans complete
+Fixed missing service attributes on retried exports
