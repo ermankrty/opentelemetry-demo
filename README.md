@@ -46,3 +46,4 @@ Improved handling when a trace ends before all child spans complete
 Fixed missing service attributes on retried exports
 Simplified span event filtering before export
 Improved cleanup when the trace exporter shuts down early
+Fixed missing parent context when spans are retried
