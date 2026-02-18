@@ -47,3 +47,4 @@ Fixed missing service attributes on retried exports
 Simplified span event filtering before export
 Improved cleanup when the trace exporter shuts down early
 Fixed missing parent context when spans are retried
+Improved cleanup after a failed metric flush
