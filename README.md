@@ -48,3 +48,4 @@ Simplified span event filtering before export
 Improved cleanup when the trace exporter shuts down early
 Fixed missing parent context when spans are retried
 Improved cleanup after a failed metric flush
+Fixed a case where metric labels were not cleared after exporter reset
