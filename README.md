@@ -50,3 +50,4 @@ Fixed missing parent context when spans are retried
 Improved cleanup after a failed metric flush
 Fixed a case where metric labels were not cleared after exporter reset
 Fixed trace sampling when parent context is unavailable
+Reduced duplicate resource attribute processing
