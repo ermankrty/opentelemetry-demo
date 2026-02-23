@@ -54,3 +54,4 @@ Reduced duplicate resource attribute processing
 Improved span cleanup after an exporter timeout
 Handled invalid metric points before export
 Fixed propagation of baggage values across async operations
+Reduced unnecessary span processing before export
