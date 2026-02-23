@@ -53,3 +53,4 @@ Fixed trace sampling when parent context is unavailable
 Reduced duplicate resource attribute processing
 Improved span cleanup after an exporter timeout
 Handled invalid metric points before export
+Fixed propagation of baggage values across async operations
