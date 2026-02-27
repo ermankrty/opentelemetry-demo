@@ -57,3 +57,4 @@ Fixed propagation of baggage values across async operations
 Reduced unnecessary span processing before export
 Fixed trace context loss during async callbacks
 Improved metric export handling for partial batches
+Removed duplicate resource attributes before export
